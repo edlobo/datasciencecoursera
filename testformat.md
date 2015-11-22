@@ -1,17 +1,19 @@
 
-"tbodyacc-mean-x"&nbsp;(m/s2); "metre per second per second"&nbsp;
-Avg body acceleration in X direction&nbsp;&nbsp;
+"tbodyacc-mean-x"<br/>
+    (m/s2); "metre per second per second"<br/>
+    Avg body acceleration in X direction<br/>
 
 
-"tbodyacc-mean-z"&nbsp;(m/s2); "metre per second per second"&nbsp;
-Avg body acceleration in Z direction&nbsp&nbsp;
+"tbodyacc-mean-z"<br/>
+    (m/s2); "metre per second per second"<br/>
+    Avg body acceleration in Z direction&nbsp<br/>
 
 
 "tgravityacc-mean-x""&nbsp;"(m/s2); "metre per second per second""&nbsp;"
 Avg gravity acceleration in X direction&nbsp;&nbsp;
 
 
-"tgravityacc-mean-y""&nbsp;"(m/s2); "metre per second per second""&nbsp;"
+"tgravityacc-mean-y"<br/>(m/s2); "metre per second per second""&nbsp;"
 Avg gravity acceleration in Y direction
 
 
